@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89c79099-3fa1-4f7d-8316-a632beccd107" name="Default Changelist" comment="" />
+    <list default="true" id="89c79099-3fa1-4f7d-8316-a632beccd107" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1pJL1nX6oUNhOb2rwWPqNswD8Dt" />
   <component name="ProjectViewState">
@@ -16,7 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/@react-native-firebase/app/android/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RecentsManager">
@@ -45,9 +52,33 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="662" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1633725609209">
+    <state x="272" y="42" key="#Notifications" timestamp="1636382122563">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="662" y="208" key="com.intellij.ide.util.TipDialog/0.0.1360.768@0.0.1360.768" timestamp="1633725609209" />
+    <state x="272" y="42" key="#Notifications/0.0.1360.768@0.0.1360.768" timestamp="1636382122563" />
+    <state x="620" y="0" key="CommitChangelistDialog2" timestamp="1636382097251">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="620" y="0" key="CommitChangelistDialog2/0.0.1360.768@0.0.1360.768" timestamp="1636382097251" />
+    <state x="256" y="59" key="DiffContextDialog" timestamp="1636382092573">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="256" y="59" key="DiffContextDialog/0.0.1360.768@0.0.1360.768" timestamp="1636382092573" />
+    <state x="746" y="139" key="FileChooserDialogImpl" timestamp="1634926345740">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="746" y="139" key="FileChooserDialogImpl/0.0.1360.768@0.0.1360.768" timestamp="1634926345740" />
+    <state x="544" y="117" key="Vcs.Push.Dialog.v2" timestamp="1636382110710">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="544" y="117" key="Vcs.Push.Dialog.v2/0.0.1360.768@0.0.1360.768" timestamp="1636382110710" />
+    <state x="662" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1636381563175">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="662" y="208" key="com.intellij.ide.util.TipDialog/0.0.1360.768@0.0.1360.768" timestamp="1636381563175" />
+    <state x="489" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1636382075992">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="489" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1360.768@0.0.1360.768" timestamp="1636382075992" />
   </component>
 </project>
